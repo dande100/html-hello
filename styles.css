@@ -29,3 +29,6 @@ body {
  width: 100%;
  text-align: left;
 }
+.container-title p:last-child {
+    color: rgb(165, 164, 164);
+}
