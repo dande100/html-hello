@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+#wrapper {
+    text-align: center;
+}
+.secondDiv {
+    background: #ccc;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+.container-wrapper {
+    background-color: white;
+    width: 500px;
+    margin: 20px; 
+}
+.container-footer {
+    text-align: left;
+    padding: 1rem;
+    font-size: 14px;
+}
+.container-title {
+    display: flex;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.container-title p:first-child {
+ width: 100%;
+ text-align: left;
+}
